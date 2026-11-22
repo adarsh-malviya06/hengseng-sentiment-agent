@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+pytest-cache-files-*/
+.vscode/
+data/raw/
+data/processed/
+data/predictions/
+.pytest_tmp/
+prediction/models/
+logs/
